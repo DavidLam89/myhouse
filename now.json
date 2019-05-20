@@ -1,4 +1,9 @@
 {
+    "build":{
+      "env":{
+        "REACT_APP_UNSPLASH_ID": "@unsplash-id"
+      }
+    },
     "version": 2,
     "name": "myHouse",
     "builds": [
